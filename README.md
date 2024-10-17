@@ -18,17 +18,10 @@
 - **이시원(디자이너)** : 숙명여자대학교 시각영상디자인과
 - **김범수(백엔드)** : 부산대학교 정보컴퓨터공학부
 
-## 💻 개발환경
-- **Version** : Java 17
-- **IDE** : IntelliJ
-- **Framework** : SpringBoot 2.7.11
-- **ORM** : JPA
-
 ## ⚙️ 기술 스택
-- 개발 언어 : **Kotlin**
-- IDE : **AndroidStudio**
+- 개발 언어 : **Kotlin, Springboot**
+- IDE : **AndroidStudio, IntelliJ**
 - 디자인 : **Figma**
-- 버전 및 이슈관리 : **Github**
 - 협업 툴 : **Github**
 
 ## 📌 주요 기능
